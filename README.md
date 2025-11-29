@@ -1,3 +1,4 @@
+git clone https://git.msk0.amvera.ru/pablick/viktor
 import logging
 from telegram import Update, ReplyKeyboardMarkup, KeyboardButton
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler
